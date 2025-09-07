@@ -51,3 +51,4 @@
 ||whatismyspeed.com^
 ||broadband speed.net^
 ||speedtest.io^
+||speedtest.its.ac.id^

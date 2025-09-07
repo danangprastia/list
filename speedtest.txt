@@ -24,7 +24,7 @@
 ||bdl.nusa.net.id^
 ||speedtest.myrepublic.co.id^
 ||speedtest.firstmedia.com^
-||speedtest. MNCplay.id^
+||speedtest.MNCplay.id^
 ||speedtest.telkom.co.id^
 ||speedtest.smartfren.com^
 ||speedtest.tri.co.id^

@@ -895,3 +895,4 @@
 ||speedtest.elcamino.edu^
 ||speedtest.lbcc.edu^
 ||speedtest.cypress college.edu^
+||speed.measurementlab.net^

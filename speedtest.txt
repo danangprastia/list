@@ -52,3 +52,4 @@
 ||broadband speed.net^
 ||speedtest.io^
 ||speedtest.its.ac.id^
+||speedcheck.biznetnetworks.com^

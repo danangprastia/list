@@ -1,0 +1,58 @@
+Tentu, berikut adalah daftar situs web speed test yang lebih lengkap, diformat untuk AdGuard blocklist, termasuk beberapa penyedia layanan internet (ISP) lokal dan global lainnya:
+
+```
+!
+! Title: Web Speed Test Blocklist
+! Description: Daftar situs web speed test untuk digunakan sebagai blocklist AdGuard.
+! Version: 1.0.2
+! Homepage: (Tidak ada)
+! Last modified: 2025-09-07T08:52:27.000Z
+!
+! Compiled by Gemini
+!
+||speedtest.net^
+||fast.com^
+||speedof.me^
+||testmy.net^
+||nperf.com^
+||speedsmart.net^
+||cbn.id^
+||speedtest.cbn.net.id^
+||speedtest.indosatm2.com^
+||speedtest.telin.co.id^
+||speedtest-iix.xl.net.id^
+||speedtest.xl.co.id^
+||speedtest.idola.net.id^
+||speedtest.neuviz.net.id^
+||speedtest.biznetnetworks.com^
+||bdl.nusa.net.id^
+||speedtest.myrepublic.co.id^
+||speedtest.firstmedia.com^
+||speedtest. MNCplay.id^
+||speedtest.telkom.co.id^
+||speedtest.smartfren.com^
+||speedtest.tri.co.id^
+||speedtest.bolt.id^
+||speedtest.u.com^
+||speedtest.linksys.com^
+||speedtest.asus.com^
+||cloudflare.com^
+||openspeedtest.com^
+||ionnetwork.co.id^
+||myrepublic.co.id^
+||tools.pingdom.com^
+||webpagetest.org^
+||gtmetrix.com^
+||pagespeed.web.dev^
+||thinkbroadband.com^
+||ookla.com^
+||internet-speed-test.net^
+||bandwidthplace.com^
+||broadbandspeedchecker.co.uk^
+||speedtest.online^
+||speedtest.pro^
+||testinternet.com^
+||whatismyspeed.com^
+||broadband speed.net^
+||speedtest.io^
+```

@@ -896,3 +896,5 @@
 ||speedtest.lbcc.edu^
 ||speedtest.cypress college.edu^
 ||speed.measurementlab.net^
+||noc.kemendikdasmen.go.id^
+||gfiber.com/speedtest^

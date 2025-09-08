@@ -898,3 +898,6 @@
 ||speed.measurementlab.net^
 ||noc.kemendikdasmen.go.id^
 ||gfiber.com/speedtest^
+||interprefy.speedtestcustom.com^
+||speed.is^
+||www.virginmedia.com/broadband/speed-test^
